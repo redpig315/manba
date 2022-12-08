@@ -8,6 +8,9 @@ Manba/[English](./README.md)
 -------
 Manba是一个基于HTTP协议的restful的API网关。可以作为统一的API接入层。
 
+## 技术架构
+使用echo框架开发，使用了etcd做数据存储
+
 ## 教程
 如果你是一个初学者，那么这个[详细的教程](./docs/tutorial.md)非常适合你。现在只有英文版本。
 
